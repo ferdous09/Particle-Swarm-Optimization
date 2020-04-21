@@ -1,4 +1,5 @@
-# PSO
-## Particle Swarm Optimization
+# Simple Particle Swarm Optimization (PSO) Algorithm
 
-Minimize: $f(x_1,x_2) = (x_2-x_1)^4 + 12x_1x_2 - x_1 + x_2 - 3 $
+## This code minizes the following function using PSO algorithm
+
+- Minimize: f(x <sub> 1 </sub>, x <sub>2 </sub>) = (x<sub>2</sub> - x<sub>1</sub>)<sup>4</sup> + 12x<sub>1</sub>x<sub>2</sub> - x<sub>1</sub> + x<sub>2</sub> - 3 
